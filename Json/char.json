@@ -1,0 +1,83 @@
+[
+  {
+    "group": "카트친구들",
+    "members": [
+      {
+        "id": 0,
+        "name": "배찌(Bazzi)",
+        "img1": "bazzi.png",
+        "img2": "bazzi_lego.png",
+        "strength": "아이템전",
+        "intro": "게으르고 잠도 많은 장난꾸러.항상 사고를 치고 다닌다."
+      },
+      {
+        "id": 1,
+        "name": "다오(Dao)",
+        "img1": "dao.png",
+        "img2": "dao_lego.png",
+        "strength": "Normal",
+        "intro": "정의롭고 착한 의리남. 불의를 보면 못 찹는다."
+	  },
+	  
+	  {
+        "id": 2,
+        "name": "디즈니(Dizni)",
+        "img1": "dizni.png",
+        "img2": "dizni_lego.png",
+        "strength": "Normal",
+        "intro": "말이 없고 부끄럼이 많은 수줍음쟁이.혼자 놀기를 좋아한다."
+	  },
+	  
+	  {
+        "id": 3,
+        "name": "마리드(Marid)",
+        "img1": "marid.png",
+        "img2": "marid_lego.png",
+        "strength": "Count",
+        "intro": "욕심많은 다혈질 소녀. 하지만 누구보다 의리와 뚝심이 있다."
+	  },
+	  
+
+	  {
+        "id": 4,
+        "name": "우니(Uni)",
+        "img1": "uni.png",
+        "img2": "uni_lego.png",
+        "strength": "Power",
+        "intro": "마을에서 가장 어린 귀요미. 의외로 해결사 노릇을 한다."
+	  },
+	  
+	  {
+        "id": 5,
+        "name": "케피(Kephi)",
+        "img1": "kephi.png",
+        "img2": "kephi_lego.png",
+        "strength": "Power",
+        "intro": "먹을 때가 제일 행복한 느림보. 겁이 많지만 위기상황에선 누구보다 용기를 낸다."
+	  },
+	  {
+        "id": 6,
+        "name": "SPAO배찌",
+        "img2": "bazzi_spao.png",
+        "strength": "Power",
+        "intro": "먹을 때가 제일 행복한 느림보. 겁이 많지만 위기상황에선 누구보다 용기를 낸다."
+	  },
+	  {
+        "id": 7,
+        "name": "SPAO다오",
+        "img2": "dao_spao.png",
+        "strength": "Power",
+        "intro": "먹을 때가 제일 행복한 느림보. 겁이 많지만 위기상황에선 누구보다 용기를 낸다."
+	  },
+	  {
+        "id": 8,
+        "name": "SPAO우니",
+        "img2": "uni_spao.png",
+        "strength": "Power",
+        "intro": "먹을 때가 제일 행복한 느림보. 겁이 많지만 위기상황에선 누구보다 용기를 낸다."
+	  }
+	]
+	
+	  
+  }
+]

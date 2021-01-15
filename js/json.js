@@ -1,4 +1,3 @@
-// loadData('../Json/char.json');
 $(".spao").hide();
 
 $(".spaobtn").click(function(){
@@ -34,8 +33,6 @@ $(".rabtn").click(function(){
 
 
 
-
-
 $('.portfolio-item').click(function(){
 
     var charindex = parseInt($(event.target).parents(".portfolioAll").children(".portfolio-item").attr("data-number"));
@@ -50,8 +47,6 @@ $('.kart-item').click(function(){
     loadData('../Json/kart.json',kartindex, "kart/");
   
 })
-
-
 
 
 function loadData(url,index, imagePath){
@@ -74,7 +69,5 @@ function parseXML(data, index, imagePath){
     $(".intro").text(data[0].members[index].intro);
     $(".type").text(data[0].members[index].type);
     $(".func").text(data[0].members[index].func);
-    
 
-    // $(".kname").text(data[0].karts[kartindex].kname);
 }

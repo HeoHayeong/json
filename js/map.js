@@ -23,10 +23,10 @@ function myMap(){
         map.setZoom(zoomLevel +1)
     })
 
-    var infoWindow = new google.maps.InfoWindow({
-        content: "넥슨 코리아"
-    });  
-    infoWindow.open(map, marker1);
+    // var infoWindow = new google.maps.InfoWindow({
+    //     content: "넥슨 코리아"
+    // });  
+    // infoWindow.open(map, marker1);
         
 
     // 37.394926, 127.111132
@@ -35,10 +35,10 @@ function myMap(){
     var marker2 = new google.maps.Marker({position: myPos2})
     marker2.setMap(map);
 
-    var infoWindow = new google.maps.InfoWindow({
-        content: "신분당선 판교역"
+    // var infoWindow = new google.maps.InfoWindow({
+    //     content: "신분당선 판교역"
         
-    });  
+    // });  
 
-    infoWindow.open(map, marker2);
+    // infoWindow.open(map, marker2);
 }
